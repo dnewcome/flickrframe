@@ -1,4 +1,4 @@
-# About Flicrframe
+# About Flickrframe
 
 The flickrframe project is an exploration into wrapping a Yahoo media experience up into a
 turnkey hardware device.
