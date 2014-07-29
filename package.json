@@ -1,0 +1,19 @@
+{
+  "name": "flickrframe",
+  "version": "0.0.0",
+  "description": "The flickrframe project is an exploration into wrapping a Yahoo media experience up into a turnkey hardware device.",
+  "main": "test.js",
+  "dependencies": {
+    "pi-spi": "~0.8.7"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@git.corp.yahoo.com:flickrframe/controller-api.git"
+  },
+  "author": "",
+  "license": "ISC"
+}
