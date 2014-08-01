@@ -24,12 +24,12 @@ The SPI signals can be connected between the RPi GPIO ports and the Arduino usin
 schemes. Note that the SPI signals are available on both the ICSP connector and on the shield connectors
 on the Arduino.
 
-Signal      RPi      Uno    ICSP
----------------------------------
-MOSI        10       11     4
-MISO        11       12     1
-CLK         12       13     3
-GND         13       GND    6  
+    Signal      RPi      Uno    ICSP
+    ---------------------------------
+    MOSI        10       11     4
+    MISO        11       12     1
+    CLK         12       13     3
+    GND         13       GND    6  
 
 # flashing SD card:
 
@@ -37,7 +37,7 @@ GND         13       GND    6
 http://www.raspberrypi.org/downloads/
 $ wget http://downloads.raspberrypi.org/raspbian_latest
 
-Double check
+Double check your disk before flashing
 
     plantbroad-lm:flickrframe dnuke$ diskutil list
     /dev/disk0
@@ -49,6 +49,7 @@ Double check
     /dev/disk1
        #:                       TYPE NAME                    SIZE       IDENTIFIER
        0:                  Apple_HFS plantbroad-lm          *249.8 GB   disk1
+
 
     $ sudo dd if=2014-06-20-wheezy-raspbian.img of=/dev/disk2 bs=1m
 
@@ -70,6 +71,9 @@ tssy5fj5
 
 
 # Beagle Bone
+
+The board we are getting from eInk is the Boom Board, which is in a "cape" form factor for the Beagle Bone.
+
 www.amazon.com/gp/product/B00K7EEX2U/
 
 ## nodejs for the Beagle Bone
