@@ -61,3 +61,10 @@ https://gist.github.com/adammw/3245130
 http://raspberrypi.stackexchange.com/questions/1303/do-ssh-failing-in-initial-setup
     
     $ sudo rm /var/log/regen_ssh_keys.log
+
+
+## Datasheets and resources
+http://vdc.epson.com/
+dnuke
+tssy5fj5
+
