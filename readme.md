@@ -68,3 +68,10 @@ http://vdc.epson.com/
 dnuke
 tssy5fj5
 
+
+# Beagle Bone
+www.amazon.com/gp/product/B00K7EEX2U/
+
+## nodejs for the Beagle Bone
+http://www.armhf.com/node-js-for-the-beaglebone-black/
+
