@@ -79,3 +79,7 @@ www.amazon.com/gp/product/B00K7EEX2U/
 ## nodejs for the Beagle Bone
 http://www.armhf.com/node-js-for-the-beaglebone-black/
 
+## debian image
+http://debian.beagleboard.org/images/bone-debian-7.5-2014-05-14-2gb.img.xz
+http://beagleboard.org/latest-images
+
