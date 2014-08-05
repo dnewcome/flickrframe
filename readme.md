@@ -83,3 +83,9 @@ http://www.armhf.com/node-js-for-the-beaglebone-black/
 http://debian.beagleboard.org/images/bone-debian-7.5-2014-05-14-2gb.img.xz
 http://beagleboard.org/latest-images
 
+## Epson RA controller data sheet
+https://drive.google.com/a/yahoo-inc.com/#folders/0ByJ1tuz_ay9YRTdYTFB3QW9scTA
+
+## Sleepy Pi documentation
+http://spellfoundry.com/products/sleepy-pi/
+
